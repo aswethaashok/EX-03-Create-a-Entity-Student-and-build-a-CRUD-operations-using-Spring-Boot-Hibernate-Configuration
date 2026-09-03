@@ -347,22 +347,23 @@ public class OrmApplication {
 
 - `POST /students` — create a student
 
-<img width="1335" height="772" alt="image" src="https://github.com/user-attachments/assets/30846851-6596-4c25-b760-a68143693cef" />
+<img width="1649" height="954" alt="image" src="https://github.com/user-attachments/assets/b56d5523-44f5-493c-94c3-505cb286c058" />
+
 
 
 - `GET /students` — list all students
 
-<img width="1356" height="456" alt="image" src="https://github.com/user-attachments/assets/80a9302a-0e78-4b31-8f6a-e5b3f6a5cfdf" />
-
+<img width="2163" height="727" alt="image" src="https://github.com/user-attachments/assets/ff0d7eca-e432-4f05-b8b1-e10e2056b282" />
 
 - `PUT /students/{id}` — update student
 
-<img width="1203" height="385" alt="image" src="https://github.com/user-attachments/assets/e42ebb71-4109-4428-814f-c085a9971f08" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e82c2963-d34a-401c-b636-ea5e754e60de" />
+
 
 
 - `DELETE /students/{id}` — delete student
 
-<img width="1206" height="416" alt="image" src="https://github.com/user-attachments/assets/e4b3742b-fd4b-422f-9e65-4d91a4012d88" />
+<img width="2132" height="737" alt="image" src="https://github.com/user-attachments/assets/c0d71557-dd38-4fb7-85f2-f8e77e1fbeac" />
 
 
 ## Result
